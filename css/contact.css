@@ -1,0 +1,55 @@
+.bertrand{
+    padding: 0 200px;
+}
+header{
+    margin-bottom: 30px;
+}
+header li {
+    padding-left: 100px;
+} 
+.body{
+    background-color: lightblue;
+    width: 90%;
+    margin: auto;
+}
+
+.reseaux img{
+    border-radius: 100px;
+    width: 10%;
+    height: 10%;
+    padding: 10px;
+}
+.reseaux{
+    justify-content: space-evenly;
+}
+footer{
+    background-color: black;
+    color: white;
+    margin-top: 30px;
+}
+footer .mentions{
+    padding: 30px 30px 10px 30px;
+}
+.sidebar .card-body p{
+    background-color: aquamarine;
+    text-align: center;
+}
+.footer{
+    margin-top: 20px;
+}
+.bordure{
+    border-top: red solid 2px;
+}
+.bordure h3{
+color: red;
+}
+.sumit{
+    background-color: red;
+    color: white;
+}
+.texte{
+    padding: 2%;
+}
+.formulaire{
+    padding: 10px;
+}
